@@ -1,4 +1,4 @@
-from Arithmetic import Arithmetic
+from classes.arithmetic.Arithmetic import Arithmetic
 
 arithm = Arithmetic(4,5)
 
